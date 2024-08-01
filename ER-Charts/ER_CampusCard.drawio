@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 HBPC/12.1.3.306" modified="2024-08-01T01:22:49.780Z" version="24.4.13" etag="wdP1KQANtozOpZ5AQ5kh" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 HBPC/12.1.3.306" modified="2024-08-01T01:31:08.888Z" version="24.4.13" etag="reAt4AI3eSEj_AQt-1v3" type="github">
   <diagram name="第 1 页" id="tQ-AfsL5KjRh9j0H5AqX">
-    <mxGraphModel dx="1910" dy="1428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1083" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bsNTXk9c0rtr0lj0yAxJ-3" value="商家" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="930" y="730" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="bsNTXk9c0rtr0lj0yAxJ-4" value="id&lt;div&gt;store_no&lt;br&gt;store_name&lt;div&gt;address&lt;/div&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="bsNTXk9c0rtr0lj0yAxJ-3" vertex="1">
+        <mxCell id="bsNTXk9c0rtr0lj0yAxJ-4" value="&lt;u&gt;id&lt;/u&gt;&lt;div&gt;store_name&lt;div&gt;address&lt;/div&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="bsNTXk9c0rtr0lj0yAxJ-3" vertex="1">
           <mxGeometry y="40" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="bsNTXk9c0rtr0lj0yAxJ-5" value="校园卡" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -15,7 +15,7 @@
             <mxRectangle x="280" y="340" width="80" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bsNTXk9c0rtr0lj0yAxJ-6" value="id&lt;div&gt;card_no&lt;br&gt;balance&lt;/div&gt;&lt;div&gt;state&lt;/div&gt;&lt;div&gt;create_time&lt;/div&gt;&lt;div&gt;query_pwd&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="bsNTXk9c0rtr0lj0yAxJ-5" vertex="1">
+        <mxCell id="bsNTXk9c0rtr0lj0yAxJ-6" value="&lt;u&gt;id&lt;/u&gt;&lt;div&gt;card_no&lt;br&gt;balance&lt;/div&gt;&lt;div&gt;state&lt;/div&gt;&lt;div&gt;create_time&lt;/div&gt;&lt;div&gt;query_pwd&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="bsNTXk9c0rtr0lj0yAxJ-5" vertex="1">
           <mxGeometry y="40" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="bsNTXk9c0rtr0lj0yAxJ-7" value="用户" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -29,7 +29,7 @@
         <mxCell id="bsNTXk9c0rtr0lj0yAxJ-9" value="学生/教师" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1250" y="730" width="160" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="bsNTXk9c0rtr0lj0yAxJ-11" value="&lt;div&gt;id&lt;/div&gt;student_no&lt;br&gt;student_name&lt;div&gt;age&lt;/div&gt;&lt;div&gt;gender&lt;/div&gt;&lt;div&gt;birthday&lt;/div&gt;&lt;div&gt;major&lt;/div&gt;&lt;div&gt;class&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="bsNTXk9c0rtr0lj0yAxJ-9" vertex="1">
+        <mxCell id="bsNTXk9c0rtr0lj0yAxJ-11" value="&lt;div&gt;&lt;u&gt;id&lt;/u&gt;&lt;/div&gt;&lt;div&gt;num&lt;/div&gt;student_name&lt;div&gt;age&lt;/div&gt;&lt;div&gt;gender&lt;/div&gt;&lt;div&gt;birthday&lt;/div&gt;&lt;div&gt;major&lt;/div&gt;&lt;div&gt;class&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="bsNTXk9c0rtr0lj0yAxJ-9" vertex="1">
           <mxGeometry y="40" width="160" height="130" as="geometry" />
         </mxCell>
         <mxCell id="bsNTXk9c0rtr0lj0yAxJ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeColor=default;endArrow=none;endFill=0;" parent="1" source="bsNTXk9c0rtr0lj0yAxJ-12" target="bsNTXk9c0rtr0lj0yAxJ-3" edge="1">
@@ -52,7 +52,7 @@
             <mxRectangle x="280" y="340" width="80" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bsNTXk9c0rtr0lj0yAxJ-20" value="id&lt;div&gt;consume_no&lt;br&gt;amount&lt;div&gt;create_time&lt;/div&gt;&lt;/div&gt;&lt;div&gt;notes&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="bsNTXk9c0rtr0lj0yAxJ-19" vertex="1">
+        <mxCell id="bsNTXk9c0rtr0lj0yAxJ-20" value="&lt;u&gt;id&lt;/u&gt;&lt;div&gt;consume_no&lt;br&gt;amount&lt;div&gt;create_time&lt;/div&gt;&lt;/div&gt;&lt;div&gt;notes&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="bsNTXk9c0rtr0lj0yAxJ-19" vertex="1">
           <mxGeometry y="40" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="sROBQhHm6fGoaaXTvxsk-4" value="充值交易" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -60,7 +60,7 @@
             <mxRectangle x="280" y="340" width="80" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sROBQhHm6fGoaaXTvxsk-5" value="id&lt;div&gt;charge_no&lt;br&gt;amount&lt;div&gt;create_time&lt;/div&gt;&lt;/div&gt;&lt;div&gt;notes&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="sROBQhHm6fGoaaXTvxsk-4">
+        <mxCell id="sROBQhHm6fGoaaXTvxsk-5" value="&lt;u&gt;id&lt;/u&gt;&lt;div&gt;charge_no&lt;br&gt;amount&lt;div&gt;create_time&lt;/div&gt;&lt;/div&gt;&lt;div&gt;notes&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="sROBQhHm6fGoaaXTvxsk-4">
           <mxGeometry y="40" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sROBQhHm6fGoaaXTvxsk-7" value="银行账户" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -68,7 +68,7 @@
             <mxRectangle x="280" y="340" width="80" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sROBQhHm6fGoaaXTvxsk-8" value="id&lt;div&gt;account&lt;br&gt;account_name&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="sROBQhHm6fGoaaXTvxsk-7">
+        <mxCell id="sROBQhHm6fGoaaXTvxsk-8" value="&lt;u&gt;id&lt;/u&gt;&lt;div&gt;account&lt;br&gt;account_name&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="sROBQhHm6fGoaaXTvxsk-7">
           <mxGeometry y="40" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sROBQhHm6fGoaaXTvxsk-9" value="结算单" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -76,7 +76,7 @@
             <mxRectangle x="280" y="340" width="80" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sROBQhHm6fGoaaXTvxsk-10" value="id&lt;div&gt;statement_no&lt;br&gt;amount&lt;/div&gt;&lt;div&gt;create_time&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="sROBQhHm6fGoaaXTvxsk-9">
+        <mxCell id="sROBQhHm6fGoaaXTvxsk-10" value="&lt;u&gt;id&lt;/u&gt;&lt;div&gt;statement_no&lt;br&gt;amount&lt;/div&gt;&lt;div&gt;create_time&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="sROBQhHm6fGoaaXTvxsk-9">
           <mxGeometry y="40" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sROBQhHm6fGoaaXTvxsk-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="sROBQhHm6fGoaaXTvxsk-11" target="bsNTXk9c0rtr0lj0yAxJ-11">
