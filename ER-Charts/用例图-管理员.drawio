@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 HBPC/12.1.3.306" version="24.7.8">
+  <diagram name="第 1 页" id="KQBWLX6boM1I_vUu8Vus">
+    <mxGraphModel dx="1195" dy="714" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kWfAGaoXyf_pxr5Y56vw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kWfAGaoXyf_pxr5Y56vw-1" target="kWfAGaoXyf_pxr5Y56vw-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kWfAGaoXyf_pxr5Y56vw-1" value="PC -&amp;gt; MAR" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1078" y="47" width="100" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="kWfAGaoXyf_pxr5Y56vw-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kWfAGaoXyf_pxr5Y56vw-2" target="kWfAGaoXyf_pxr5Y56vw-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kWfAGaoXyf_pxr5Y56vw-2" value="M(MAR) -&amp;gt; Q" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1078" y="110" width="100" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="kWfAGaoXyf_pxr5Y56vw-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kWfAGaoXyf_pxr5Y56vw-3" target="kWfAGaoXyf_pxr5Y56vw-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kWfAGaoXyf_pxr5Y56vw-3" value="Q -&amp;gt; IR" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1078" y="173" width="100" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="kWfAGaoXyf_pxr5Y56vw-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kWfAGaoXyf_pxr5Y56vw-4" target="kWfAGaoXyf_pxr5Y56vw-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kWfAGaoXyf_pxr5Y56vw-4" value="(PC) + 1 -&amp;gt; PC" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1078" y="236" width="100" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="kWfAGaoXyf_pxr5Y56vw-5" value="OP(IR) -&amp;gt; uIR" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1078" y="299" width="100" height="33" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
