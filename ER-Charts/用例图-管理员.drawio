@@ -10,6 +10,9 @@
         <mxCell id="iSYZg7iLYKLxQMK2rEbz-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="iSYZg7iLYKLxQMK2rEbz-1" target="iSYZg7iLYKLxQMK2rEbz-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="iSYZg7iLYKLxQMK2rEbz-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iSYZg7iLYKLxQMK2rEbz-1" target="iSYZg7iLYKLxQMK2rEbz-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iSYZg7iLYKLxQMK2rEbz-1" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1033" y="455" width="30" height="60" as="geometry" />
         </mxCell>
@@ -69,26 +72,26 @@
         <mxCell id="iSYZg7iLYKLxQMK2rEbz-5" value="校园卡管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1179" y="462" width="96" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="iSYZg7iLYKLxQMK2rEbz-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iSYZg7iLYKLxQMK2rEbz-6" target="iSYZg7iLYKLxQMK2rEbz-7">
+        <mxCell id="iSYZg7iLYKLxQMK2rEbz-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iSYZg7iLYKLxQMK2rEbz-6" target="iSYZg7iLYKLxQMK2rEbz-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iSYZg7iLYKLxQMK2rEbz-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iSYZg7iLYKLxQMK2rEbz-6" target="iSYZg7iLYKLxQMK2rEbz-8">
+        <mxCell id="iSYZg7iLYKLxQMK2rEbz-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iSYZg7iLYKLxQMK2rEbz-6" target="iSYZg7iLYKLxQMK2rEbz-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iSYZg7iLYKLxQMK2rEbz-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iSYZg7iLYKLxQMK2rEbz-6" target="iSYZg7iLYKLxQMK2rEbz-9">
+        <mxCell id="iSYZg7iLYKLxQMK2rEbz-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iSYZg7iLYKLxQMK2rEbz-6" target="iSYZg7iLYKLxQMK2rEbz-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iSYZg7iLYKLxQMK2rEbz-6" value="账单管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="745" width="96" height="46" as="geometry" />
+          <mxGeometry x="858" y="462" width="96" height="46" as="geometry" />
         </mxCell>
         <mxCell id="iSYZg7iLYKLxQMK2rEbz-7" value="消费账单查询" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="572" y="686" width="96" height="46" as="geometry" />
+          <mxGeometry x="683" y="403" width="96" height="46" as="geometry" />
         </mxCell>
         <mxCell id="iSYZg7iLYKLxQMK2rEbz-8" value="充值账单查询" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="572" y="745" width="96" height="46" as="geometry" />
+          <mxGeometry x="683" y="462" width="96" height="46" as="geometry" />
         </mxCell>
         <mxCell id="iSYZg7iLYKLxQMK2rEbz-9" value="结算单查询" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="572" y="804" width="96" height="46" as="geometry" />
+          <mxGeometry x="683" y="521" width="96" height="46" as="geometry" />
         </mxCell>
         <mxCell id="iSYZg7iLYKLxQMK2rEbz-18" value="校园卡信息查询" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1358" y="347" width="96" height="46" as="geometry" />
