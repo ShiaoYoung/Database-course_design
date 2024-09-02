@@ -25,32 +25,17 @@
         <mxCell id="Ve-0OviqmU1EHWDldDCG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ve-0OviqmU1EHWDldDCG-8" target="Ve-0OviqmU1EHWDldDCG-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ve-0OviqmU1EHWDldDCG-8" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ve-0OviqmU1EHWDldDCG-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ve-0OviqmU1EHWDldDCG-8" target="Ve-0OviqmU1EHWDldDCG-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ve-0OviqmU1EHWDldDCG-8" value="个人中心" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="343" width="96" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="Ve-0OviqmU1EHWDldDCG-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ve-0OviqmU1EHWDldDCG-12" target="Ve-0OviqmU1EHWDldDCG-35">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Ve-0OviqmU1EHWDldDCG-12" value="个人信息修改" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="882" y="246" width="96" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="Ve-0OviqmU1EHWDldDCG-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ve-0OviqmU1EHWDldDCG-12" target="Ve-0OviqmU1EHWDldDCG-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Ve-0OviqmU1EHWDldDCG-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ve-0OviqmU1EHWDldDCG-12" target="Ve-0OviqmU1EHWDldDCG-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Ve-0OviqmU1EHWDldDCG-12" value="学生&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; white-space: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E7%94%A8%E6%88%B7%E7%AE%A1%E7%90%86%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22381%22%20y%3D%22262%22%20width%3D%2296%22%20height%3D%2246%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="921" y="246" width="96" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="Ve-0OviqmU1EHWDldDCG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ve-0OviqmU1EHWDldDCG-16" target="Ve-0OviqmU1EHWDldDCG-38">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Ve-0OviqmU1EHWDldDCG-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ve-0OviqmU1EHWDldDCG-16" target="Ve-0OviqmU1EHWDldDCG-39">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Ve-0OviqmU1EHWDldDCG-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ve-0OviqmU1EHWDldDCG-16" target="Ve-0OviqmU1EHWDldDCG-40">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Ve-0OviqmU1EHWDldDCG-16" value="商家管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1086" y="246" width="96" height="46" as="geometry" />
+        <mxCell id="Ve-0OviqmU1EHWDldDCG-16" value="重置密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1117" y="246" width="96" height="46" as="geometry" />
         </mxCell>
         <mxCell id="Ve-0OviqmU1EHWDldDCG-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ve-0OviqmU1EHWDldDCG-22" target="Ve-0OviqmU1EHWDldDCG-30">
           <mxGeometry relative="1" as="geometry" />
@@ -111,29 +96,14 @@
         <mxCell id="Ve-0OviqmU1EHWDldDCG-34" value="挂失校园卡" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1358" y="462" width="96" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="Ve-0OviqmU1EHWDldDCG-35" value="学生信息查询" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="751" y="140" width="96" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="Ve-0OviqmU1EHWDldDCG-36" value="添加学生用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="869" y="144" width="96" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="Ve-0OviqmU1EHWDldDCG-37" value="删除学生用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="992" y="144" width="96" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="Ve-0OviqmU1EHWDldDCG-38" value="商家信息查询" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="144" width="96" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="Ve-0OviqmU1EHWDldDCG-39" value="添加商家用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1232" y="144" width="96" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="Ve-0OviqmU1EHWDldDCG-40" value="删除商家用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1358" y="144" width="96" height="46" as="geometry" />
-        </mxCell>
         <mxCell id="Ve-0OviqmU1EHWDldDCG-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ve-0OviqmU1EHWDldDCG-34" target="Ve-0OviqmU1EHWDldDCG-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ve-0OviqmU1EHWDldDCG-44" value="消费功能" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="591" width="96" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="Ve-0OviqmU1EHWDldDCG-48" value="更换头像" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="246" width="96" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
