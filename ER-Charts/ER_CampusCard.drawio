@@ -91,11 +91,8 @@
         <mxCell id="sROBQhHm6fGoaaXTvxsk-14" value="拥有" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="860" y="738" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sROBQhHm6fGoaaXTvxsk-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="sROBQhHm6fGoaaXTvxsk-30" target="bsNTXk9c0rtr0lj0yAxJ-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="sROBQhHm6fGoaaXTvxsk-30" value="隶属" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="505" y="719" width="120" height="60" as="geometry" />
+          <mxGeometry x="509" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sROBQhHm6fGoaaXTvxsk-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="bsNTXk9c0rtr0lj0yAxJ-20" target="sROBQhHm6fGoaaXTvxsk-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -122,6 +119,9 @@
           <mxGeometry x="234" y="493" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sROBQhHm6fGoaaXTvxsk-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="sROBQhHm6fGoaaXTvxsk-10" target="sROBQhHm6fGoaaXTvxsk-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dbxsZBITKyk_rtF4sic7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.016;entryY=0.39;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sROBQhHm6fGoaaXTvxsk-30" target="bsNTXk9c0rtr0lj0yAxJ-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
